@@ -6,3 +6,6 @@ __pycache__/
 play.py
 play1.py
 play2.py
+
+### virtual environment
+env/
